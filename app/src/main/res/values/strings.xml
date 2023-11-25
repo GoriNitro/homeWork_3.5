@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homeWork_3.5</string>
+    <string name="zero">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plusOne">+1</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="hello">hello</string>
+</resources>
